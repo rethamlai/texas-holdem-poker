@@ -1,2 +1,6 @@
 # texas-holdem-poker
-Python 3 code to simulate a texas holdem poker game for n players
+Python code to simulate a texas holdem poker game for n players
+
+## To do list
+- [] Check which player has the higher hand if the score is the same
+- [] Build in betting functions
